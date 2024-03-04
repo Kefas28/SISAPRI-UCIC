@@ -39,7 +39,7 @@
             </div>
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle {{ Request::is('baak/konten/*') ? 'active' : '' }}"
-                    data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Konten Prasarana</a>
+                    data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Konten Prasarana test</a>
                 <div class="dropdown-menu bg-transparent border-0">
                     <a href="/baak/konten/prasarana" class="dropdown-item">Konten Prasarana</a>
                 </div>
